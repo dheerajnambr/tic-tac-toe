@@ -47,6 +47,12 @@ This project is a creative and highly modern take on the classic Tic-Tac-Toe gam
 * **Frontend UI:** HTML5 & CSS3 (Glassmorphism + Keyframe Animations + SVG)
 * **Game Logic:** Vanilla ES6 JavaScript
 
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! 
+Feel free to check out the issues page if you want to contribute, or simply open a pull request with your improvements.
+
 ---
 
 This project is open-source and available under the [MIT License](LICENSE). Feel free to fork, modify, and use it in your own projects!
