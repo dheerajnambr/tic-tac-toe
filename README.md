@@ -49,4 +49,4 @@ This project is a creative and highly modern take on the classic Tic-Tac-Toe gam
 
 ---
 
-
+This project is open-source and available under the [MIT License](LICENSE). Feel free to fork, modify, and use it in your own projects!
