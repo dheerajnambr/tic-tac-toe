@@ -55,4 +55,3 @@ Feel free to check out the issues page if you want to contribute, or simply open
 
 ---
 
-This project is open-source and available under the [MIT License](LICENSE). Feel free to fork, modify, and use it in your own projects!
