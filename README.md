@@ -49,6 +49,4 @@ This project is a creative and highly modern take on the classic Tic-Tac-Toe gam
 
 ---
 
-<div align="center">
-  <p>Designed with ❤️ by <b>Dheeraj PT</b></p>
-</div>
+
