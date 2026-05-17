@@ -51,7 +51,6 @@ This project is a creative and highly modern take on the classic Tic-Tac-Toe gam
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! 
-Feel free to check out the issues page if you want to contribute, or simply open a pull request with your improvements.
-
+Feel free to check out the issues page if you want to contribute, or simply open a pull request with your improvements and get it approved
 ---
 
